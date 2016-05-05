@@ -1,0 +1,6 @@
+#Properties file
+#Thu May 05 11:31:59 AEST 2016
+Adapter-Name=echo
+Adapter-Vendor=me
+Adapter-ID=echo
+Adapter-Version=1.0.0
